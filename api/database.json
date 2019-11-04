@@ -1,24 +1,32 @@
 {
-  "posts": [
+  "contacts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "Jimbo Flippypants",
+      "title": "Head Coach",
+      "phoneNumber": "615-111-1111",
+      "address": "100 SEC St."
     },
     {
       "id": 2,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "Maverick Bananahammer",
+      "title": "Offensive Coordinator",
+      "phoneNumber": "615-222-2222",
+      "address": "200 Wishbone Option Blvd."
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 3,
+      "name": "George McMuppet",
+      "title": "Defensive Coordinator",
+      "phoneNumber": "615-333-3333",
+      "address": "300 Pistol Sweep Rd."
+    },
+    {
+      "name": "dude",
+      "title": "killer",
+      "address": "500 streey",
+      "phoneNumber": "55555555",
+      "id": 4
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
